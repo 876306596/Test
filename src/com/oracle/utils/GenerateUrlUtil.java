@@ -16,7 +16,8 @@ public class GenerateUrlUtil {
 	
 	// 服务器IP地址和Tomcat端口
 	private static final String IP = "http://117.36.53.108:8191/";
-
+	
+	// 接口访问路径
 	private static String path = "JYAppServerNew/apps/queryxajj/queryVehicleOrDlicence";
 
 	public static void main(String[] args) {
