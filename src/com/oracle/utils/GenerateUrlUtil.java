@@ -34,5 +34,7 @@ public class GenerateUrlUtil {
 		System.out.println(sb.toString());
 
 	}
+	
+	// ≤‚ ‘
 
 }
