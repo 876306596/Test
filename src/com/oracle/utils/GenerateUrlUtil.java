@@ -39,5 +39,7 @@ public class GenerateUrlUtil {
 	
 	
 	// 新增方法2
+	
+	// 新增方法3
 
 }
