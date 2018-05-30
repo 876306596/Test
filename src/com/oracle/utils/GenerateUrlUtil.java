@@ -7,6 +7,11 @@ import com.oracle.assistutils.MD5;
 
 import net.sf.json.JSONObject;
 
+/**
+ * …˙≥…≤‚ ‘URL
+ * @author tongxingyi
+ *
+ */
 public class GenerateUrlUtil {
 
 	private static final String IP = "http://117.36.53.108:8191/";
