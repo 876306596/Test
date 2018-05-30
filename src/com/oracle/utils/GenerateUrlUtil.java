@@ -34,5 +34,7 @@ public class GenerateUrlUtil {
 		System.out.println(sb.toString());
 
 	}
+	
+	//新增方法
 
 }
