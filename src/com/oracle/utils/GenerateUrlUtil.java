@@ -19,7 +19,8 @@ public class GenerateUrlUtil {
 	
 	// 接口访问路径
 	private static String path = "JYAppServerNew/apps/queryxajj/queryVehicleOrDlicence";
-
+	
+	// 主方法，生成测试URL
 	public static void main(String[] args) {
 		Map<String, String> map = new HashMap<String, String>();
 		map.put("JYBH", "610643");
