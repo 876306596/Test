@@ -34,10 +34,5 @@ public class GenerateUrlUtil {
 		System.out.println(sb.toString());
 
 	}
-	
-	// 新增Test方法
-	public void test(){
-		
-	}
 
 }
